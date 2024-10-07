@@ -1,7 +1,7 @@
 /** @odoo-module **/
 /* Copyright 2023 Camptocamp - Telmo Santos
  * License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl). */
-import {SwitchCompanyMenu} from "@web/webclient/switch_company_menu/switch_company_menu";
+import {SwitchCompanyMenu} from "@web/widgets/switch_company_menu";
 import {browser} from "@web/core/browser/browser";
 import {patch} from "@web/core/utils/patch";
 
